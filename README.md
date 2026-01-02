@@ -1,6 +1,3 @@
-Here’s a **slightly extended, cleanly aligned, and professional README** version—clear, well-structured, and suitable for GitHub:
-
----
 
 ## 📚 ER Diagram Practice – Library Management System
 
